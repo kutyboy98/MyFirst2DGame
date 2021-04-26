@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 6db8b9c1be40e2a45a6e131f27f76a55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 878252536134077196
+    second: SecondProjectileV2_0
+  - first:
+      213: 8820771702980949391
+    second: SecondProjectileV2_1
+  - first:
+      213: -73996948018185609
+    second: SecondProjectileV2_2
+  - first:
+      213: -7549224295547655071
+    second: SecondProjectileV2_3
+  - first:
+      213: -1784974111938607489
+    second: SecondProjectileV2_4
+  - first:
+      213: -3172877440428413260
+    second: SecondProjectileV2_5
+  - first:
+      213: -798796115105258403
+    second: SecondProjectileV2_6
+  - first:
+      213: -9082625385648256505
+    second: SecondProjectileV2_7
+  - first:
+      213: -272853108976009262
+    second: SecondProjectileV2_8
+  - first:
+      213: -1762376694322456009
+    second: SecondProjectileV2_9
+  - first:
+      213: 2722898848157303011
+    second: SecondProjectileV2_10
+  - first:
+      213: 9001458180476279799
+    second: SecondProjectileV2_11
+  - first:
+      213: -8734208856634124945
+    second: SecondProjectileV2_12
+  - first:
+      213: -9097619694268297221
+    second: SecondProjectileV2_13
+  - first:
+      213: -9092879845400428443
+    second: SecondProjectileV2_14
+  - first:
+      213: 9160216094739650036
+    second: SecondProjectileV2_15
+  - first:
+      213: -1340450945134489098
+    second: SecondProjectileV2_16
+  - first:
+      213: 3394790617067882383
+    second: SecondProjectileV2_17
+  - first:
+      213: 3565590149210232397
+    second: SecondProjectileV2_18
+  - first:
+      213: -4118310539054175454
+    second: SecondProjectileV2_19
+  - first:
+      213: 6134980108476273225
+    second: SecondProjectileV2_20
+  - first:
+      213: -2798210381758741329
+    second: SecondProjectileV2_21
+  - first:
+      213: -6704338526616796485
+    second: SecondProjectileV2_22
+  - first:
+      213: -202647341377678109
+    second: SecondProjectileV2_23
+  - first:
+      213: -5177923554428142069
+    second: SecondProjectileV2_24
+  - first:
+      213: 3533483540171630791
+    second: SecondProjectileV2_25
+  - first:
+      213: 7496555610898104133
+    second: SecondProjectileV2_26
+  - first:
+      213: -3467360172724742614
+    second: SecondProjectileV2_27
+  - first:
+      213: 8306253328721987839
+    second: SecondProjectileV2_28
+  - first:
+      213: -9104535712316885761
+    second: SecondProjectileV2_29
+  - first:
+      213: -3327242491456077169
+    second: SecondProjectileV2_30
+  - first:
+      213: 1304691207915129121
+    second: SecondProjectileV2_31
+  - first:
+      213: -7426160390498308032
+    second: SecondProjectileV2_32
+  - first:
+      213: -183905653027372286
+    second: SecondProjectileV2_33
+  - first:
+      213: -939897235047423778
+    second: SecondProjectileV2_34
+  - first:
+      213: -291150777257558236
+    second: SecondProjectileV2_35
+  - first:
+      213: 3175621074724083027
+    second: SecondProjectileV2_36
+  - first:
+      213: 7983643516473716451
+    second: SecondProjectileV2_37
+  - first:
+      213: 4918712259311218665
+    second: SecondProjectileV2_38
+  - first:
+      213: 3758121592170860239
+    second: SecondProjectileV2_39
+  - first:
+      213: 1831522699423974519
+    second: SecondProjectileV2_40
+  - first:
+      213: -391110053325416552
+    second: SecondProjectileV2_41
+  - first:
+      213: 3759257159460006687
+    second: SecondProjectileV2_42
+  - first:
+      213: -328337234625665871
+    second: SecondProjectileV2_43
+  - first:
+      213: 4648064283096030129
+    second: SecondProjectileV2_44
+  - first:
+      213: 4328659692518804919
+    second: SecondProjectileV2_45
+  - first:
+      213: -7807080508015447311
+    second: SecondProjectileV2_59
+  - first:
+      213: -2744416716573422952
+    second: SecondProjectileV2_47
+  - first:
+      213: 3830976507254541181
+    second: SecondProjectileV2_48
+  - first:
+      213: 8867926854930573030
+    second: SecondProjectileV2_50
+  - first:
+      213: 6393800588843342986
+    second: SecondProjectileV2_57
+  - first:
+      213: -9211618998831853789
+    second: SecondProjectileV2_58
+  - first:
+      213: -8635142944912086987
+    second: SecondProjectileV2_63
+  - first:
+      213: 7706762675594109163
+    second: SecondProjectileV2_64
+  - first:
+      213: 3983576776610821716
+    second: SecondProjectileV2_65
+  - first:
+      213: -8705188822201947764
+    second: SecondProjectileV2_66
+  - first:
+      213: -223821340196158400
+    second: SecondProjectileV2_67
+  - first:
+      213: -997178241409502549
+    second: SecondProjectileV2_68
+  - first:
+      213: -2551419940748650431
+    second: SecondProjectileV2_69
+  - first:
+      213: -2320972167435282629
+    second: SecondProjectileV2_70
+  - first:
+      213: -3032282971600124410
+    second: SecondProjectileV2_71
+  - first:
+      213: 7383003423515330819
+    second: SecondProjectileV2_72
+  - first:
+      213: 5733742814005615146
+    second: SecondProjectileV2_73
+  - first:
+      213: 5813150042549056175
+    second: SecondProjectileV2_74
+  - first:
+      213: -5370368669810407592
+    second: SecondProjectileV2_75
+  - first:
+      213: 734982798039789897
+    second: SecondProjectileV2_76
+  - first:
+      213: 7473607381854191340
+    second: SecondProjectileV2_77
+  - first:
+      213: 5961841358457603605
+    second: SecondProjectileV2_78
+  - first:
+      213: 5199219995546401152
+    second: SecondProjectileV2_79
+  - first:
+      213: -7459904203832228264
+    second: SecondProjectileV2_80
+  - first:
+      213: -6145793926740951476
+    second: SecondProjectileV2_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SecondProjectileV2_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 476
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b8b57470e203c00800000000000000
+      internalID: 878252536134077196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 476
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853ff0212da96a70800000000000000
+      internalID: 8820771702980949391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 476
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab9e6fa2c19fef0800000000000000
+      internalID: -73996948018185609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 475
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c222e2084cb3790800000000000000
+      internalID: -7549224295547655071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 474
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7681ac908f7a37e0800000000000000
+      internalID: -1784974111938607489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 477
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bee96f47cca7f3d0800000000000000
+      internalID: -3172877440428413260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 469
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54603f5a2b1ae4f0800000000000000
+      internalID: -798796115105258403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 470
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a8d74655804f180800000000000000
+      internalID: -9082625385648256505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 470
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfbf930b81a63cf0800000000000000
+      internalID: -272853108976009262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 469
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a9b76ebb7ca87e0800000000000000
+      internalID: -1762376694322456009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08cbb631ea9c520800000000000000
+      internalID: 2722898848157303011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 415
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb92dbf58a9bec70800000000000000
+      internalID: 9001458180476279799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 415
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65904a125bd9c680800000000000000
+      internalID: -8734208856634124945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 415
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4a8dd613ceb180800000000000000
+      internalID: -9097619694268297221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 413
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560499de4f99fc180800000000000000
+      internalID: -9092879845400428443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 412
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d5c85100af1f70800000000000000
+      internalID: 9160216094739650036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 398
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11c68a7f2c56de0800000000000000
+      internalID: -1340450945134489098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 398
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8709217418bc1f20800000000000000
+      internalID: 3394790617067882383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 398
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46de4279558b7130800000000000000
+      internalID: 3565590149210232397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 304
+        width: 113
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22badec6262d8d6c0800000000000000
+      internalID: -4118310539054175454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 306
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942d0d577e3d32550800000000000000
+      internalID: 6134980108476273225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 341
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c57cbb72ca29d0800000000000000
+      internalID: -2798210381758741329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 308
+        width: 114
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24a0391a765f2a0800000000000000
+      internalID: -6704338526616796485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 338
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e49182115d003df0800000000000000
+      internalID: -202647341377678109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_24
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 300
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ebe2806f15428b0800000000000000
+      internalID: -5177923554428142069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 324
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ae9ffe84790130800000000000000
+      internalID: 3533483540171630791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_26
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 325
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ffa821c9d190860800000000000000
+      internalID: 7496555610898104133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 269
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2697643b4671efc0800000000000000
+      internalID: -3467360172724742614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 242
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff841e0e46db54370800000000000000
+      internalID: 8306253328721987839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 254
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47e7ee10136a180800000000000000
+      internalID: -9104535712316885761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 235
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82cc2f159243d1d0800000000000000
+      internalID: -3327242491456077169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 235
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1294b55bdb13b1210800000000000000
+      internalID: 1304691207915129121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_32
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 237
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b547687af0f890800000000000000
+      internalID: -7426160390498308032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 248
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030e1f68c2a27df0800000000000000
+      internalID: -183905653027372286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_34
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 268
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed060abc170d4f2f0800000000000000
+      internalID: -939897235047423778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 268
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ffb7129ef95fbf0800000000000000
+      internalID: -291150777257558236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555c24da82121c20800000000000000
+      internalID: 3175621074724083027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 259
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee24c4aa799bce60800000000000000
+      internalID: 7983643516473716451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efaa984db6c24440800000000000000
+      internalID: 4918712259311218665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 250
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcec11c3da7872430800000000000000
+      internalID: 3758121592170860239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_40
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 252
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7740b39f030ea6910800000000000000
+      internalID: 1831522699423974519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_41
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 252
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897547b8a7f729af0800000000000000
+      internalID: -391110053325416552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_42
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 262
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b25f818709b2430800000000000000
+      internalID: 3759257159460006687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b46a935603817bf0800000000000000
+      internalID: -328337234625665871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_44
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 245
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9e17c6dd318040800000000000000
+      internalID: 4648064283096030129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 245
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd822e5e0d721c30800000000000000
+      internalID: 4328659692518804919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_59
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 132
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2fcd244ada7a390800000000000000
+      internalID: -7807080508015447311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_47
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a4ffc698fd9e9d0800000000000000
+      internalID: -2744416716573422952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_48
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 243
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b06c106dc5a2530800000000000000
+      internalID: 3830976507254541181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6a8428d74311b70800000000000000
+      internalID: 8867926854930573030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd0be72c75bb850800000000000000
+      internalID: 6393800588843342986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 134
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f43686351c92080800000000000000
+      internalID: -9211618998831853789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 41
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5386bc71e3fc92880800000000000000
+      internalID: -8635142944912086987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 30
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a60f32dbe3fa60800000000000000
+      internalID: 7706762675594109163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 22
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4563261f8f1884730800000000000000
+      internalID: 3983576776610821716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a3f563e4f03780800000000000000
+      internalID: -8705188822201947764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_67
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 71
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c47c4da3d4ecf0800000000000000
+      internalID: -223821340196158400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_68
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 84
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b9073caf4922f0800000000000000
+      internalID: -997178241409502549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 78
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14814d6f419879cd0800000000000000
+      internalID: -2551419940748650431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_70
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 60
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37937a5c104acfd0800000000000000
+      internalID: -2320972167435282629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 67
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060f4bf3ba2be5d0800000000000000
+      internalID: -3032282971600124410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_72
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 36
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309cf123f72b57660800000000000000
+      internalID: 7383003423515330819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_73
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 60
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad04ee5b8529f40800000000000000
+      internalID: 5733742814005615146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_74
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 68
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2fe201a257ca050800000000000000
+      internalID: 5813150042549056175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_75
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 23
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574013f52e9875b0800000000000000
+      internalID: -5370368669810407592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_76
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 57
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9413f21f5fe233a00800000000000000
+      internalID: 734982798039789897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_77
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef722215697b760800000000000000
+      internalID: 7473607381854191340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_78
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 55
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516091ad027bcb250800000000000000
+      internalID: 5961841358457603605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_79
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 28
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b6af0a07572840800000000000000
+      internalID: 5199219995546401152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_80
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 35
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8560320a6a8197890800000000000000
+      internalID: -7459904203832228264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SecondProjectileV2_81
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3ad54cf0c5baa0800000000000000
+      internalID: -6145793926740951476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

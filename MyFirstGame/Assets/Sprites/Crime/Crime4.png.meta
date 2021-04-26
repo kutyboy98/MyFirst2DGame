@@ -1,0 +1,3188 @@
+fileFormatVersion: 2
+guid: ac2a60d688dab3748b582ccace529c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6173193303811242735
+    second: Crime4_0
+  - first:
+      213: 3785542273280326834
+    second: Crime4_1
+  - first:
+      213: -7948866951736945378
+    second: Crime4_2
+  - first:
+      213: 8395515466859552285
+    second: Crime4_3
+  - first:
+      213: 2372189663492749933
+    second: Crime4_4
+  - first:
+      213: 1871511870226486458
+    second: Crime4_5
+  - first:
+      213: -5632084973108134288
+    second: Crime4_6
+  - first:
+      213: 7959296334320663708
+    second: Crime4_7
+  - first:
+      213: -6414167642726969082
+    second: Crime4_8
+  - first:
+      213: -5083002471312451842
+    second: Crime4_9
+  - first:
+      213: 5625092019991632411
+    second: Crime4_10
+  - first:
+      213: -6230032659839670970
+    second: Crime4_11
+  - first:
+      213: 4086582800484625335
+    second: Crime4_12
+  - first:
+      213: -1651393662292396065
+    second: Crime4_13
+  - first:
+      213: 3814826943022310484
+    second: Crime4_14
+  - first:
+      213: 6437419543814198249
+    second: Crime4_15
+  - first:
+      213: 370626037158098286
+    second: Crime4_16
+  - first:
+      213: -3795101877107642866
+    second: Crime4_17
+  - first:
+      213: -8633524693065058938
+    second: Crime4_18
+  - first:
+      213: -5604104036944109971
+    second: Crime4_19
+  - first:
+      213: -6592242759344222070
+    second: Crime4_20
+  - first:
+      213: -1384578572739432033
+    second: Crime4_21
+  - first:
+      213: -8075579632705807161
+    second: Crime4_22
+  - first:
+      213: -1085508278488681704
+    second: Crime4_23
+  - first:
+      213: 261389222941461033
+    second: Crime4_24
+  - first:
+      213: -4017047819008541733
+    second: Crime4_25
+  - first:
+      213: 8578326676525593199
+    second: Crime4_26
+  - first:
+      213: 2602556927560056874
+    second: Crime4_27
+  - first:
+      213: 4055429470381280631
+    second: Crime4_28
+  - first:
+      213: 2070165373143383620
+    second: Crime4_29
+  - first:
+      213: 5953215694434074746
+    second: Crime4_30
+  - first:
+      213: 2475235135971346161
+    second: Crime4_31
+  - first:
+      213: -663463909363982751
+    second: Crime4_32
+  - first:
+      213: -4278494451455884267
+    second: Crime4_33
+  - first:
+      213: 8791770369870892317
+    second: Crime4_34
+  - first:
+      213: -2585016621158745302
+    second: Crime4_35
+  - first:
+      213: -3442994776199698689
+    second: Crime4_36
+  - first:
+      213: -1347346038933750532
+    second: Crime4_37
+  - first:
+      213: -3805401919969914498
+    second: Crime4_38
+  - first:
+      213: 3312663212625757665
+    second: Crime4_39
+  - first:
+      213: 2155891142334443552
+    second: Crime4_40
+  - first:
+      213: -5120233843142578459
+    second: Crime4_41
+  - first:
+      213: 2417301594657689154
+    second: Crime4_42
+  - first:
+      213: -8860364203557489976
+    second: Crime4_43
+  - first:
+      213: 1548285672505451443
+    second: Crime4_44
+  - first:
+      213: 1986632176911562488
+    second: Crime4_45
+  - first:
+      213: 4842129402208404309
+    second: Crime4_46
+  - first:
+      213: -2687730590660665951
+    second: Crime4_47
+  - first:
+      213: 8873232387505760388
+    second: Crime4_48
+  - first:
+      213: -8175354832049529389
+    second: Crime4_49
+  - first:
+      213: -61360579628428885
+    second: Crime4_50
+  - first:
+      213: -3466584553403790702
+    second: Crime4_51
+  - first:
+      213: -8192622376156205444
+    second: Crime4_52
+  - first:
+      213: -8830271433352433520
+    second: Crime4_53
+  - first:
+      213: 4433251965873776888
+    second: Crime4_54
+  - first:
+      213: 2952419225203304911
+    second: Crime4_55
+  - first:
+      213: 1966438850460985768
+    second: Crime4_56
+  - first:
+      213: 8824823593744264566
+    second: Crime4_57
+  - first:
+      213: -6101283669447105722
+    second: Crime4_58
+  - first:
+      213: 6566598790269885124
+    second: Crime4_59
+  - first:
+      213: -4167877772723102935
+    second: Crime4_60
+  - first:
+      213: -8081517414570127857
+    second: Crime4_61
+  - first:
+      213: -8424655885283667017
+    second: Crime4_62
+  - first:
+      213: 5965717972901100832
+    second: Crime4_63
+  - first:
+      213: -5633556523115112630
+    second: Crime4_64
+  - first:
+      213: 5393012767628020741
+    second: Crime4_65
+  - first:
+      213: 5932728136267476474
+    second: Crime4_66
+  - first:
+      213: 8875909300867116075
+    second: Crime4_67
+  - first:
+      213: -7083459228190837938
+    second: Crime4_68
+  - first:
+      213: 2141981677276969068
+    second: Crime4_69
+  - first:
+      213: 6811209335198230594
+    second: Crime4_70
+  - first:
+      213: 2496419241238702132
+    second: Crime4_71
+  - first:
+      213: -1150203182884026101
+    second: Crime4_72
+  - first:
+      213: -9082769432369664582
+    second: Crime4_73
+  - first:
+      213: -745506035172521628
+    second: Crime4_74
+  - first:
+      213: 1851165781952752892
+    second: Crime4_75
+  - first:
+      213: 5605578108070972069
+    second: Crime4_76
+  - first:
+      213: 3633814825277823933
+    second: Crime4_77
+  - first:
+      213: 1461217964209751550
+    second: Crime4_78
+  - first:
+      213: -1969466847974246116
+    second: Crime4_79
+  - first:
+      213: -1718329844008483300
+    second: Crime4_80
+  - first:
+      213: -3719726037013633636
+    second: Crime4_81
+  - first:
+      213: 9047802398137408077
+    second: Crime4_82
+  - first:
+      213: -1997574053427471465
+    second: Crime4_83
+  - first:
+      213: 810880072676277687
+    second: Crime4_84
+  - first:
+      213: -7249031489639965783
+    second: Crime4_85
+  - first:
+      213: 3327994525109095325
+    second: Crime4_86
+  - first:
+      213: 6058106905810269796
+    second: Crime4_87
+  - first:
+      213: -861763226312089054
+    second: Crime4_88
+  - first:
+      213: 1116902025443052433
+    second: Crime4_89
+  - first:
+      213: 1179472353617196931
+    second: Crime4_90
+  - first:
+      213: -6288793740009467314
+    second: Crime4_91
+  - first:
+      213: 7536030000937860933
+    second: Crime4_92
+  - first:
+      213: 1362243786783665690
+    second: Crime4_93
+  - first:
+      213: -4541594719444080846
+    second: Crime4_94
+  - first:
+      213: -4607137244654453810
+    second: Crime4_95
+  - first:
+      213: -5293252088819326186
+    second: Crime4_96
+  - first:
+      213: 1048742695887076008
+    second: Crime4_97
+  - first:
+      213: -4759121734372378912
+    second: Crime4_98
+  - first:
+      213: 5289684648026520357
+    second: Crime4_99
+  - first:
+      213: -761934988225250799
+    second: Crime4_100
+  - first:
+      213: -5486907919076525117
+    second: Crime4_101
+  - first:
+      213: -8884316732166190793
+    second: Crime4_102
+  - first:
+      213: 8024233551313516333
+    second: Crime4_103
+  - first:
+      213: 5687607759842267542
+    second: Crime4_104
+  - first:
+      213: -2719336539351667739
+    second: Crime4_105
+  - first:
+      213: -8818522518844436572
+    second: Crime4_106
+  - first:
+      213: -3673369157363762749
+    second: Crime4_107
+  - first:
+      213: -250429464918200241
+    second: Crime4_108
+  - first:
+      213: 1002633846946277281
+    second: Crime4_109
+  - first:
+      213: 2383020943767914620
+    second: Crime4_110
+  - first:
+      213: -6523709888490527096
+    second: Crime4_111
+  - first:
+      213: -6620912848163223822
+    second: Crime4_112
+  - first:
+      213: 8467422613258845328
+    second: Crime4_113
+  - first:
+      213: -1116068277737420638
+    second: Crime4_114
+  - first:
+      213: -2528454125442376645
+    second: Crime4_115
+  - first:
+      213: 511182628503452767
+    second: Crime4_116
+  - first:
+      213: 7837900434655527693
+    second: Crime4_117
+  - first:
+      213: -3764747769949798926
+    second: Crime4_118
+  - first:
+      213: -4103454793810448739
+    second: Crime4_119
+  - first:
+      213: 4357411315040753017
+    second: Crime4_120
+  - first:
+      213: 9174742562442947543
+    second: Crime4_121
+  - first:
+      213: 5046414967724777673
+    second: Crime4_122
+  - first:
+      213: 4585789171195893145
+    second: Crime4_123
+  - first:
+      213: -3818750018667728917
+    second: Crime4_124
+  - first:
+      213: -6377645606394060250
+    second: Crime4_125
+  - first:
+      213: -6929259169732930327
+    second: Crime4_126
+  - first:
+      213: -3342130540024754191
+    second: Crime4_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crime4_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 785
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c28ca569645aa0800000000000000
+      internalID: -6173193303811242735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 786
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc391114a2f88430800000000000000
+      internalID: 3785542273280326834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 786
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1590ee4f93ffa190800000000000000
+      internalID: -7948866951736945378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 786
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e1674f5dcd28470800000000000000
+      internalID: 8395515466859552285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 786
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab6583ee5bbe020800000000000000
+      internalID: 2372189663492749933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 787
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d6c95122f8f910800000000000000
+      internalID: 1871511870226486458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 786
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ef2199e80d6d1b0800000000000000
+      internalID: -5632084973108134288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 785
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c704d88d9157e60800000000000000
+      internalID: 7959296334320663708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 785
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601547d338c4cf6a0800000000000000
+      internalID: -6414167642726969082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 785
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef61df8ee2c8579b0800000000000000
+      internalID: -5083002471312451842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 718
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5c70a367501e40800000000000000
+      internalID: 5625092019991632411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 719
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ac23dd4a7a89a0800000000000000
+      internalID: -6230032659839670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 718
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb6b18c76576b830800000000000000
+      internalID: 4086582800484625335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 719
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7fabea6321519e0800000000000000
+      internalID: -1651393662292396065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 718
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542f6294ecf0f430800000000000000
+      internalID: 3814826943022310484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 718
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3d33bd7fe465950800000000000000
+      internalID: 6437419543814198249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_16
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 718
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b159ca6ab42500800000000000000
+      internalID: 370626037158098286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 718
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea49833f6155bc0800000000000000
+      internalID: -3795101877107642866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 718
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853b46b80f8f2880800000000000000
+      internalID: -8633524693065058938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 718
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1d99f1193a32b0800000000000000
+      internalID: -5604104036944109971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 718
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8095283326a384a0800000000000000
+      internalID: -6592242759344222070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 717
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bf38bf1df8cce0800000000000000
+      internalID: -1384578572739432033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 651
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd03d3c17cdef80800000000000000
+      internalID: -8075579632705807161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 650
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813bfe3d8ff7fe0f0800000000000000
+      internalID: -1085508278488681704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 661
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a8a850d14a0a300800000000000000
+      internalID: 261389222941461033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 661
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbfc36ba449048c0800000000000000
+      internalID: -4017047819008541733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_26
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 650
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62b09199a65c0770800000000000000
+      internalID: 8578326676525593199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 651
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2003f69cb32e1420800000000000000
+      internalID: 2602556927560056874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 652
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d0ab1ed97c74830800000000000000
+      internalID: 4055429470381280631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 650
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e768c4074babc10800000000000000
+      internalID: 2070165373143383620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_30
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 650
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a700602f1221e9250800000000000000
+      internalID: 5953215694434074746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_31
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 648
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64327ed3dc95220800000000000000
+      internalID: 2475235135971346161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 652
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5111f617eac6f0800000000000000
+      internalID: -663463909363982751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 583
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5140e7ff6fbbf94c0800000000000000
+      internalID: -4278494451455884267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 582
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d85f21294a20a70800000000000000
+      internalID: 8791770369870892317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 583
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b3a5d341d202cd0800000000000000
+      internalID: -2585016621158745302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 583
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff667192e760830d0800000000000000
+      internalID: -3442994776199698689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 583
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcf2d78ae34d4de0800000000000000
+      internalID: -1347346038933750532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_38
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 583
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719a9c9d1f703bc0800000000000000
+      internalID: -3805401919969914498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 583
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5001104a1f8fd20800000000000000
+      internalID: 3312663212625757665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 583
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020714152934bed10800000000000000
+      internalID: 2155891142334443552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_41
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 577
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eead84a27641f8b0800000000000000
+      internalID: -5120233843142578459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_42
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 579
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8e803efafb8120800000000000000
+      internalID: 2417301594657689154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_43
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 580
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27e5a73b9a90580800000000000000
+      internalID: -8860364203557489976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 584
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a380bd9d9c7510800000000000000
+      internalID: 1548285672505451443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_45
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 515
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6bc24707fe19b10800000000000000
+      internalID: 1986632176911562488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_46
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 515
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5534b1f5903b23340800000000000000
+      internalID: 4842129402208404309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 515
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad58bb944343bad0800000000000000
+      internalID: -2687730590660665951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_48
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 515
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488a5c218dd042b70800000000000000
+      internalID: 8873232387505760388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 514
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1aea581e4b8e80800000000000000
+      internalID: -8175354832049529389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_50
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 515
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11900c0e0062ff0800000000000000
+      internalID: -61360579628428885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_51
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 516
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac28627b734efc0800000000000000
+      internalID: -3466584553403790702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 516
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eea42fa55fd4e80800000000000000
+      internalID: -8192622376156205444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 516
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090bfb88ae2947580800000000000000
+      internalID: -8830271433352433520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_54
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 516
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f865b1bc23168d30800000000000000
+      internalID: 4433251965873776888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_55
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 516
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e64a84a919f820800000000000000
+      internalID: 2952419225203304911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_56
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 449
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9214247b13a4b10800000000000000
+      internalID: 1966438850460985768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 449
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dec967d42187a70800000000000000
+      internalID: 8824823593744264566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 449
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a6b024d2e35ba0800000000000000
+      internalID: -6101283669447105722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 449
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cadb84fece312b50800000000000000
+      internalID: 6566598790269885124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 449
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd7918f39b826c0800000000000000
+      internalID: -4167877772723102935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_61
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 449
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0a6aaabea8df80800000000000000
+      internalID: -8081517414570127857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_62
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 448
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b353caab1c951b80800000000000000
+      internalID: -8424655885283667017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_63
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 448
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfeec73ec7ac250800000000000000
+      internalID: 5965717972901100832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_64
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 448
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4793a9a03691d1b0800000000000000
+      internalID: -5633556523115112630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_65
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 448
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4d9be984d7da40800000000000000
+      internalID: 5393012767628020741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_66
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 448
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd20379ec8455250800000000000000
+      internalID: 5932728136267476474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_67
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 448
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c25c88b709d2b70800000000000000
+      internalID: 8875909300867116075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_68
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 381
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f8ba9c5f72bd90800000000000000
+      internalID: -7083459228190837938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 381
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683d7d9cf8d9bd10800000000000000
+      internalID: 2141981677276969068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 380
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a0539dc6468e50800000000000000
+      internalID: 6811209335198230594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_71
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 381
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ab74c21015a220800000000000000
+      internalID: 2496419241238702132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 380
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b098ca89c48a900f0800000000000000
+      internalID: -1150203182884026101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 381
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd64d6e25583f180800000000000000
+      internalID: -9082769432369664582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_74
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 379
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c1abf53e67a5f0800000000000000
+      internalID: -745506035172521628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_75
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 380
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfce6a58879a0b910800000000000000
+      internalID: 1851165781952752892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_76
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 380
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac644f6930bcd40800000000000000
+      internalID: 5605578108070972069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_77
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 380
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb9b30b457ed6230800000000000000
+      internalID: 3633814825277823933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_78
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 380
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef544202ff9474410800000000000000
+      internalID: 1461217964209751550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_79
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 379
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c193691265c0ba4e0800000000000000
+      internalID: -1969466847974246116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_80
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 317
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160ce86c144728e0800000000000000
+      internalID: -1718329844008483300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 316
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e70690e0e06cc0800000000000000
+      internalID: -3719726037013633636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 313
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a58e20850409d70800000000000000
+      internalID: 9047802398137408077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_83
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 313
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1be46bf03744e0800000000000000
+      internalID: -1997574053427471465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 317
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdff4f3123d04b00800000000000000
+      internalID: 810880072676277687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 317
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab93666444466b90800000000000000
+      internalID: -7249031489639965783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_86
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 316
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b829b53696f2e20800000000000000
+      internalID: 3327994525109095325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_87
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 313
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46679243228b21450800000000000000
+      internalID: 6058106905810269796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_88
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 313
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2226c2759e66a04f0800000000000000
+      internalID: -861763226312089054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_89
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 317
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b827b7978008f00800000000000000
+      internalID: 1116902025443052433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 247
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873fb34bd35e5010800000000000000
+      internalID: 1179472353617196931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_91
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 247
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e421905b967b9b8a0800000000000000
+      internalID: -6288793740009467314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_92
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 247
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7696bb5b559860800000000000000
+      internalID: 7536030000937860933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_93
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 247
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e29b0b189a7e210800000000000000
+      internalID: 1362243786783665690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_94
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 247
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237eeb14aa309f0c0800000000000000
+      internalID: -4541594719444080846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_95
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 247
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb36ece5192010c0800000000000000
+      internalID: -4607137244654453810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_96
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 247
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613645325479a86b0800000000000000
+      internalID: -5293252088819326186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_97
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 246
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa7229ece1ed8e00800000000000000
+      internalID: 1048742695887076008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_98
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 178
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6b4eb5ff334fdb0800000000000000
+      internalID: -4759121734372378912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 176
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b3573592cb86940800000000000000
+      internalID: 5289684648026520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 177
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a74e44a201d65f0800000000000000
+      internalID: -761934988225250799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 177
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7a2881569ad3b0800000000000000
+      internalID: -5486907919076525117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_102
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 177
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739cc23d00194b480800000000000000
+      internalID: -8884316732166190793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_103
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 177
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2730d496edcb5f60800000000000000
+      internalID: 8024233551313516333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 174
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69157239f117eee40800000000000000
+      internalID: 5687607759842267542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_105
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 175
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb243b33d9f24ad0800000000000000
+      internalID: -2719336539351667739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_106
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 177
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af8e7cdd705e9580800000000000000
+      internalID: -8818522518844436572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_107
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 177
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f476b632950dc0800000000000000
+      internalID: -3673369157363762749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_108
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 174
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40724e7abb468cf0800000000000000
+      internalID: -250429464918200241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_109
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 175
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7240feb221aed00800000000000000
+      internalID: 1002633846946277281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_110
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 110
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784a9d2ce0321120800000000000000
+      internalID: 2383020943767914620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_111
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 109
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a1d6ab602775a0800000000000000
+      internalID: -6523709888490527096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6496cf7dacd14a0800000000000000
+      internalID: -6620912848163223822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 108
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c37622104528570800000000000000
+      internalID: 8467422613258845328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_114
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 108
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8016880dde280f0800000000000000
+      internalID: -1116068277737420638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_115
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cd2268e5029ecd0800000000000000
+      internalID: -2528454125442376645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_116
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 110
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c7c4b64e5181700800000000000000
+      internalID: 511182628503452767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_117
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 107
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c5881be0d5cc60800000000000000
+      internalID: 7837900434655527693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_118
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 107
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdb23789dde0cbc0800000000000000
+      internalID: -3764747769949798926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_119
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 110
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eed072b999d07c0800000000000000
+      internalID: -4103454793810448739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_120
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 43
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97595452182a87c30800000000000000
+      internalID: 4357411315040753017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_121
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 45
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba11c20cb335f70800000000000000
+      internalID: 9174742562442947543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_122
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 52
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c023741da7780640800000000000000
+      internalID: 5046414967724777673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_123
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d6f364fef3af30800000000000000
+      internalID: 4585789171195893145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_124
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 45
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2b433713110bc0800000000000000
+      internalID: -3818750018667728917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_125
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 45
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222d877c1d0e77a0800000000000000
+      internalID: -6377645606394060250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_126
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 45
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e453777f7356df90800000000000000
+      internalID: -6929259169732930327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crime4_127
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 40
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff07d03bfd5e91d0800000000000000
+      internalID: -3342130540024754191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
